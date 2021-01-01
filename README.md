@@ -1,4 +1,4 @@
-### Toolkit for Whatsapp
+# Toolkit for Whatsapp
 
 ![N|Solid](https://static.wixstatic.com/media/20fa8a_f6f746fd0c7d467fa9bf9f183f741f37~mv2.png)
 
@@ -47,7 +47,7 @@ Toolkit for Whatsapp is a all-in-one lightweight android app to increase WhatsAp
  
 ### Become a contributor
 
-Write us by visiting [Crado](https://nodejs.org/) to make toolkit much more better.
+Write us by visiting [Crado](https://www.cradoapps.com/) to make toolkit much more better.
 
 License
 ----
